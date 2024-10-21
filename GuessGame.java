@@ -1,6 +1,6 @@
 import java.math.MathContext;
 
-public class Main {
+public class GuessGame {
 	public static void main(String[] args) {
 		guessingGame();
 	}
