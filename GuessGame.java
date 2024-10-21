@@ -7,7 +7,6 @@ public class GuessGame {
 
 	public static void guessingGame(){
 		int nbrToGuess = (int)(Math.random() * 100) + 1;
-		System.out.println(nbrToGuess);
 		int nbrOfGuesses = 3;
 		int guessInt = -1;
 		System.out.println("Hello and welcome to the number guessing game \nyou have " + nbrOfGuesses +
